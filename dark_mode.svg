@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="452" viewBox="0 0 940 452" fill="none">
+<style>
+text,tspan{font-family:ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;white-space:pre;dominant-baseline:middle}
+.art{fill:#58a6ff;font-size:15px}
+.key{fill:#7ee787}.val{fill:#c9d1d9}.dim{fill:#484f58}.head{fill:#f778ba;font-weight:700}
+.add{fill:#3fb950}.dele{fill:#f85149}
+.row{font-size:12.5px}
+.ttl{fill:#8b949e;font-size:12px}
+</style>
+<rect x="0.5" y="0.5" width="939" height="451" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h919a10 10 0 0 1 10 10V38H0.5z" fill="#161b22"/>
+<line x1="0.5" y1="38" x2="939" y2="38" stroke="#30363d"/>
+<circle cx="22" cy="19" r="5.5" fill="#ff5f56"/>
+<circle cx="42" cy="19" r="5.5" fill="#ffbd2e"/>
+<circle cx="62" cy="19" r="5.5" fill="#27c93f"/>
+<text x="470" y="20" text-anchor="middle" class="ttl">yohannzapata@github: ~</text>
+<g class="art">
+<text x="100" y="76.0" xml:space="preserve">             ..:::::-::.</text>
+<text x="100" y="89.0" xml:space="preserve">        :=***++++++==+++-.</text>
+<text x="100" y="102.0" xml:space="preserve">    :-+#%####%*++******##*-.</text>
+<text x="100" y="115.0" xml:space="preserve">  =###%%%%@%%%%%#########*=.</text>
+<text x="100" y="128.0" xml:space="preserve"> =#%%%%@@%%%%%@@%%@@@@%%%%#=</text>
+<text x="100" y="141.0" xml:space="preserve"> *%%%@@%%##**##%%%%@@@@@@@%#</text>
+<text x="100" y="154.0" xml:space="preserve"> #%%@@%%#*++++++**#%@@@@@@@#</text>
+<text x="100" y="167.0" xml:space="preserve">.%%@@%#*+=========++*%%%@@@*</text>
+<text x="100" y="180.0" xml:space="preserve"> %%%#######+====+*######%%@*</text>
+<text x="100" y="193.0" xml:space="preserve"> +#*=====+++*###*+++=++++*#*</text>
+<text x="100" y="206.0" xml:space="preserve"> *%+=+++**++**+**++**+++=*%#</text>
+<text x="100" y="219.0" xml:space="preserve"> =%+====+==+#==+#+=+===+++**.</text>
+<text x="100" y="232.0" xml:space="preserve">=+*===+=++++=--=+*+++++++=+*+</text>
+<text x="100" y="245.0" xml:space="preserve">-=+==--=====---=+++=======*+-</text>
+<text x="100" y="258.0" xml:space="preserve"> :====--===+*++++++======++=</text>
+<text x="100" y="271.0" xml:space="preserve">  -=========+++**++==+++=+=.</text>
+<text x="100" y="284.0" xml:space="preserve">     :===============++++=.</text>
+<text x="100" y="297.0" xml:space="preserve">       -===+****+*****+++=:</text>
+<text x="100" y="310.0" xml:space="preserve">        :=++=++*****++++=-</text>
+<text x="100" y="323.0" xml:space="preserve">        :=======+++++++==:</text>
+<text x="100" y="336.0" xml:space="preserve">        .====++===++++++=:</text>
+<text x="100" y="349.0" xml:space="preserve">        .===++++****++++=-</text>
+<text x="100" y="362.0" xml:space="preserve">    ...:-====+++**++++===-.</text>
+<text x="100" y="375.0" xml:space="preserve">    ..:--=====+++++++====-.</text>
+<text x="100" y="388.0" xml:space="preserve">      .:--=====+++++++++==:</text>
+<text x="100" y="401.0" xml:space="preserve">         .--===+++++++++=:</text>
+<text x="100" y="414.0" xml:space="preserve">             .:-===--:...</text>
+</g>
+<g class="row">
+<text x="462" y="78.0" xml:space="preserve"><tspan class="head">yohannzapata</tspan><tspan class="dim">@</tspan><tspan class="head">github</tspan></text>
+<text x="462" y="94.5" xml:space="preserve"><tspan class="dim">-------------------</tspan></text>
+<text x="462" y="111.0" xml:space="preserve"><tspan class="key">OS</tspan><tspan class="dim">........: </tspan><tspan class="val">Windows 11</tspan></text>
+<text x="462" y="127.5" xml:space="preserve"><tspan class="key">Uptime</tspan><tspan class="dim">....: </tspan><tspan id="age_data" class="val">0 years, 0 months, 0 days</tspan></text>
+<text x="462" y="144.0" xml:space="preserve"><tspan class="key">Host</tspan><tspan class="dim">......: </tspan><tspan class="val">Philippines</tspan></text>
+<text x="462" y="160.5" xml:space="preserve"><tspan class="key">Kernel</tspan><tspan class="dim">....: </tspan><tspan class="val">Full-Stack Developer</tspan></text>
+<text x="462" y="177.0" xml:space="preserve"><tspan class="key">Focus</tspan><tspan class="dim">.....: </tspan><tspan class="val">AI Engineering &amp; Systems Architecture</tspan></text>
+<text x="462" y="193.5" xml:space="preserve"><tspan class="key">IDE</tspan><tspan class="dim">.......: </tspan><tspan class="val">VS Code</tspan></text>
+<text x="462" y="210.0" xml:space="preserve"></text>
+<text x="462" y="226.5" xml:space="preserve"><tspan class="key">Languages.Programming</tspan><tspan class="dim">: </tspan><tspan class="val">TypeScript, Python, Go</tspan></text>
+<text x="462" y="243.0" xml:space="preserve"><tspan class="key">Languages.Computer</tspan><tspan class="dim">...: </tspan><tspan class="val">HTML, CSS, SQL, Bash</tspan></text>
+<text x="462" y="259.5" xml:space="preserve"><tspan class="key">Languages.Real</tspan><tspan class="dim">.......: </tspan><tspan class="val">English, Filipino</tspan></text>
+<text x="462" y="276.0" xml:space="preserve"><tspan class="key">Hobbies.Software</tspan><tspan class="dim">.....: </tspan><tspan class="val">Systems design, homelab</tspan></text>
+<text x="462" y="292.5" xml:space="preserve"></text>
+<text x="462" y="309.0" xml:space="preserve"><tspan class="head">GitHub Stats</tspan></text>
+<text x="462" y="325.5" xml:space="preserve"><tspan class="dim">-------------------</tspan></text>
+<text x="462" y="342.0" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dim">.......: </tspan><tspan id="repo_data" class="val">0</tspan><tspan id="repo_data_dots" class="dim"> </tspan><tspan class="dim">{Contributed: </tspan><tspan id="contrib_data" class="val">0</tspan><tspan class="dim">}</tspan></text>
+<text x="462" y="358.5" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dim">.....: </tspan><tspan id="commit_data" class="val">0</tspan></text>
+<text x="462" y="375.0" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dim">.......: </tspan><tspan id="star_data" class="val">0</tspan></text>
+<text x="462" y="391.5" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dim">...: </tspan><tspan id="follower_data" class="val">0</tspan></text>
+<text x="462" y="408.0" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dim">: </tspan><tspan id="loc_data" class="val">0</tspan><tspan class="dim"> ( </tspan><tspan id="loc_add" class="add">0</tspan><tspan class="add">++</tspan><tspan class="dim">, </tspan><tspan id="loc_del" class="dele">0</tspan><tspan class="dele">--</tspan><tspan class="dim"> )</tspan></text>
+</g>
+</svg>
