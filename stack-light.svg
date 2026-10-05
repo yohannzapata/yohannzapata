@@ -1,10 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 160" width="880" height="160" role="img" aria-label="Stack — Languages: TypeScript, JavaScript, Python, Java, C#, HTML; Frontend: React, Next.js, React Native, Expo, Tailwind CSS, Vite; Backend: Node.js, Express, FastAPI, .NET, Tauri, Electron; Cloud: AWS, Firebase, Supabase, Vercel" font-family="'Cascadia Mono', 'Cascadia Code', ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
 <title>Stack — Languages: TypeScript, JavaScript, Python, Java, C#, HTML; Frontend: React, Next.js, React Native, Expo, Tailwind CSS, Vite; Backend: Node.js, Express, FastAPI, .NET, Tauri, Electron; Cloud: AWS, Firebase, Supabase, Vercel</title>
-<style>
-  @keyframes blink { 50% { opacity: 0 } }
-  .caret { animation: blink 1.1s steps(1) infinite }
-  @media (prefers-reduced-motion: reduce) { .caret { animation: none } }
-</style>
 <rect x="0.5" y="0.5" width="879" height="159" rx="8" fill="#ffffff" stroke="#e0e0e0"/>
 <text x="28" y="32" font-size="13" fill="#115ea3" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">→</text>
 <text x="46" y="31" font-size="10" fill="#616161" textLength="33" lengthAdjust="spacingAndGlyphs" xml:space="preserve">STACK</text>
