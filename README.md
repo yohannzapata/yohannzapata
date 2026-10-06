@@ -16,7 +16,6 @@
   <a href="https://www.instagram.com/yohannzapata_/">Instagram</a> ·
   <a href="https://x.com/yohannzapata_">X</a> ·
   <a href="https://www.youtube.com/@yohannzapata">YouTube</a> ·
-  <a href="https://www.tiktok.com/@yohannzapata">TikTok</a> ·
   <a href="https://www.facebook.com/profile.php?id=61580991466449">Facebook</a> ·
   <a href="https://www.pinterest.com/yohannzapata_/">Pinterest</a> ·
   <a href="https://www.chess.com/member/yohannzapata">Chess.com</a>
